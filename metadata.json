@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Vision Enterprise Assistant",
+  "description": "A sophisticated, enterprise-grade application that leverages the Gemini API to perform advanced visual analysis across various industries. Upload images, select from specialized tasks, and receive detailed, AI-driven insights.",
+  "requestFramePermissions": []
+}
